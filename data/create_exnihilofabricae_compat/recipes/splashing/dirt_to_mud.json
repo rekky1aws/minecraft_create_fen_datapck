@@ -1,0 +1,13 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "minecraft:dirt"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:mud"
+    }
+  ]
+}
