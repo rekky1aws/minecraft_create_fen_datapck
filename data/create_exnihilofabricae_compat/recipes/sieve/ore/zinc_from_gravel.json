@@ -1,0 +1,25 @@
+{
+  "type": "fabricaeexnihilo:sieve",
+  "input": {
+    "item": "minecraft:gravel"
+  },
+  "result": {
+    "count": 1,
+    "item": "create:zinc_nugget"
+  },
+  "rolls": {
+    "fabricaeexnihilo:diamond_mesh": [
+      0.45
+    ],
+    "fabricaeexnihilo:flint_mesh": [
+      0.2
+    ],
+    "fabricaeexnihilo:iron_mesh": [
+      0.3
+    ],
+    "fabricaeexnihilo:netherite_mesh": [
+      0.65
+    ]
+  },
+  "waterlogged": false
+}
