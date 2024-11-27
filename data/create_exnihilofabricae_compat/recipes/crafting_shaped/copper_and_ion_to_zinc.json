@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "pattern": [
+    "CI",
+    "IC"
+  ],
+  "result": {
+    "item": "create:zinc_ingot",
+    "count": 4
+  },
+  "show_notification": true
+}

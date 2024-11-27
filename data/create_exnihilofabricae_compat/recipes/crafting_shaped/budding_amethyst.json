@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "pattern": [
+    "ADA",
+    "DED",
+    "ADA"
+  ],
+  "result": {
+    "item": "minecraft:budding_amethyst",
+    "count": 1
+  },
+  "show_notification": true
+}
