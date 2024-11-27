@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:netherrack"
+    }
+  ],
+  "results": [
+    {
+      "item": "fabricaeexnihilo:crushed_netherrack",
+      "count": 1
+    }
+  ],
+  "processingTime": 100
+}
