@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "N": {
+      "item": "minecraft:netherrack"
+    }
+  },
+  "pattern": [
+    "INI",
+    "IDI",
+    "III"
+  ],
+  "result": {
+    "item": "minecraft:netherite_upgrade_smithing_template",
+    "count": 1
+  },
+  "show_notification": true
+}
