@@ -4,12 +4,14 @@ I'm making this datapack for my skyblock modpack based on Create and FabricaeExN
 
 ## Recipes
 ### Barrel
- + A zombie above a barrel with produce blood
+ + A zombie above a barrel with produce blood.
 
 ### Shaped Crafting
  + `Budding Amethyst` can be crafted with `Amethyst Shards`, `Emeralds` and `Diamonds`. It then can be automated with Create.
  + `Zinc Ingots` can be crafted with `Iron Ingots` and `Copper Ingots` *(this may be removed in the future sicne it's not very logical and there's an another way to obtain zinc)*.
  + `Name Tags` can be crafted with `Strings` and `Paper` *(this may be moved to a vanilla minecraft datapack in the future)*.
+ + `Netherite Upgrade Smithing Template` have another pretty expensive craft with `Netherite Ingots`, `Diamonds` and `Netherrack` to craft the first one since Bastions and Fortresses don't generate in the Nether.
+ + `Sponge` can be crafted from `Strings`, `Yellow Wool` and `Bucket`.
 
 ### Shapeless Crafting
  + `Clay Blocks` can be directly used in a crafting table to obtain `Clay Balls` instead of placing them and breaking them *(this may be moved to a vanilla minecraft datapack in the future)*.
