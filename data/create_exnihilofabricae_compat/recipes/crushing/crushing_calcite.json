@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:calcite"
+    }
+  ],
+  "results": [
+    {
+      "item": "fabricaeexnihilo:crushed_calcite",
+      "count": 1
+    }
+  ],
+  "processingTime": 100
+}
